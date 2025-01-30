@@ -3,3 +3,5 @@ ini baris keda dibuat nya di branch main
 baris 3 di buat para branch main
 menambahkan garis ke 4 setelah pembuatan file (commit 1)
 menambahkan garis ke 4 setelah pembuatan file (commit 2)
+menambahkan garis ke 6 setelah pembuatan file (commit 3)
+menambahkan garis ke 7 setelah pembuatan file (commit 4)
